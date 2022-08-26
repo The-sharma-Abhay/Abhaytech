@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Abhaytech/static/css/main.572551d3.chunk.css",
+    "main.js": "/Abhaytech/static/js/main.e174d3cd.chunk.js",
+    "main.js.map": "/Abhaytech/static/js/main.e174d3cd.chunk.js.map",
+    "runtime-main.js": "/Abhaytech/static/js/runtime-main.6e87b733.js",
+    "runtime-main.js.map": "/Abhaytech/static/js/runtime-main.6e87b733.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/Abhaytech/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.f3f6100a.chunk.js": "/Abhaytech/static/js/2.f3f6100a.chunk.js",
+    "static/js/2.f3f6100a.chunk.js.map": "/Abhaytech/static/js/2.f3f6100a.chunk.js.map",
+    "index.html": "/Abhaytech/index.html",
+    "static/css/2.d8cb5cde.chunk.css.map": "/Abhaytech/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.572551d3.chunk.css.map": "/Abhaytech/static/css/main.572551d3.chunk.css.map",
+    "static/js/2.f3f6100a.chunk.js.LICENSE.txt": "/Abhaytech/static/js/2.f3f6100a.chunk.js.LICENSE.txt",
+    "static/media/Digital-marketing.811846ac.webp": "/Abhaytech/static/media/Digital-marketing.811846ac.webp",
+    "static/media/Marketing.8ae38efb.jpg": "/Abhaytech/static/media/Marketing.8ae38efb.jpg",
+    "static/media/customer-support.14fabe4f.jpg": "/Abhaytech/static/media/customer-support.14fabe4f.jpg",
+    "static/media/img1.699ae432.png": "/Abhaytech/static/media/img1.699ae432.png",
+    "static/media/img2.19d69494.png": "/Abhaytech/static/media/img2.19d69494.png",
+    "static/media/internet.60cf1970.jpg": "/Abhaytech/static/media/internet.60cf1970.jpg",
+    "static/media/software_development.8154edc4.jpg": "/Abhaytech/static/media/software_development.8154edc4.jpg",
+    "static/media/web-development.02247b97.jpeg": "/Abhaytech/static/media/web-development.02247b97.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e87b733.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.f3f6100a.chunk.js",
+    "static/css/main.572551d3.chunk.css",
+    "static/js/main.e174d3cd.chunk.js"
+  ]
+}
